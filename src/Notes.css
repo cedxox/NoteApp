@@ -1,0 +1,7 @@
+.notes {
+    max-width: 120rem;
+    margin: 0px auto;
+    display: grid;
+    grid-template-columns: repeat(3, minmax(300px, 1fr));
+    gap: 20px;
+}

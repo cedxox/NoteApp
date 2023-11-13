@@ -1,0 +1,27 @@
+body{
+  background-image: url("https://img.freepik.com/free-photo/old-fashioned-chrome-car-vintage-elegance-driving-through-rural-sunset-landscape-generated-by-artificial-intelligence_24640-131029.jpg?t=st=1699883308~exp=1699886908~hmac=adf30dc77990b5fe53f55a1f438c032fed2c10e91127695c7c58ead355b2915e&w=1800") ;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.main{
+  max-width: 906px;
+  margin: 0px auto;
+  padding: 0px 15px;
+  min-height: 100vh;
+}
+
+
+.header{
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+  margin: 10px 0px;
+}
+
+.title{
+  color: #ffffffc8;
+  font-size: 50px;
+  font-weight: 400;
+}
